@@ -1,3 +1,5 @@
 print("Hello GitHub")
 print("Aarushi hello")
 print("1st internship day")
+print("Git and GitHub are easy")
+print("i hope it works")
